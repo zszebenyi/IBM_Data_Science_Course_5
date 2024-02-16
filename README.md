@@ -1,1 +1,1 @@
-# IBM_Data_Science_Course_5
+This repository holds the Jupyter notebook that is my solution to the Coursera course "Python Project for Data Science".
